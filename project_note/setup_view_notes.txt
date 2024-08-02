@@ -1,0 +1,17 @@
+Récupération des Notes (Dans un premier temps : Tableau) : 
+
+
+if(isPinned) {
+<table>
+	<tr>
+	foreach($notes as $text_note) : 
+	
+	mettre les resuslats dans les <t>
+	
+	
+	
+	<tr>
+
+<table>
+
+else {}
